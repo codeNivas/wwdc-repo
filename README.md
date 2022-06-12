@@ -15,3 +15,7 @@ selenium-java
 cobertura
 junit
 
+
+
+* Maven Project
+
